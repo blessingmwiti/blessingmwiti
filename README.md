@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on Fullstack Dev,laravel,deep learning,kotlin
 
-- 📫 How to reach me **blessingmwiti@gmail.com**
+- 📫 How to reach me **blessing@sawititech.co.ke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
