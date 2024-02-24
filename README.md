@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/blessingmwiti" target="blank"><img src="https://img.shields.io/twitter/follow/blessingmwiti?logo=twitter&style=for-the-badge" alt="blessingmwiti" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning, jetpack compose, react**
+- 🌱 I’m currently learning **machine learning, jetpack compose, nextjs, flutter**
 
 - 👯 I’m looking to collaborate on **machine learning, mobile application, web design adn development**
 
