@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blessing Mwiti</h1>
-<h3 align="center">A passionate developer from Mombasa Kenya</h3>
+<h3 align="center">Some Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessingmwiti&label=Profile%20views&color=0e75b6&style=flat" alt="blessingmwiti" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **machine learning, mobile application, web design adn development**
 
-- 📫 How to reach me **blessing@sawititech.co.ke**
+- 📫 How to reach me **blessingmwiti@gmail.com**
 
-- ⚡ Fun fact **Sometimes am a code god, sometimes a code imposter**
+- ⚡ Fun fact **When I have bugs, I call Chuck Norris**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
