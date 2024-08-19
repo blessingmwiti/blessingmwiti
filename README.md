@@ -42,6 +42,7 @@
 - 🏆 [Mozilla AI] - [1st Position]
 - 🏆 [Blue Economy] - [1st Position]
 - 🏆 [Cybersecurity] - [1st Position]
+- 🏆 [Game Jam] - [1st Position]
 
 ---
 
