@@ -23,17 +23,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blessingmwiti&show_icons=true&theme=radical" alt="blessingmwiti" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blessingmwiti&theme=radical" alt="blessingmwiti" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blessingmwiti&show_icons=true&locale=en&layout=compact&theme=radical" alt="blessingmwiti" />
-</p>
+</p> -->
 
 ---
 
