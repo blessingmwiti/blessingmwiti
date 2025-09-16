@@ -16,8 +16,8 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **[MLOps]**
-- 📫 How to reach me **[blessingmwiti@gmail.com]**
-- ⚡ Fun fact **[Giggity]**
+- 📫 How to reach me **[me@blessingmwiti.com]**
+- ⚡ Fun fact **[Mooo]**
 
 ---
 
