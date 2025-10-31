@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **[MLOps]**
 - 📫 How to reach me **[me@blessingmwiti.com]**
-- ⚡ Fun fact **[Mooo]**
+- ⚡ Fun fact **[I Like to Move It Move It]**
 
 ---
 
