@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm [Blessing Mwiti] 👋</h1>
-<h3 align="center">Some developer</h3>
+<h3 align="center">Software Engineer | ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blessingmwiti&label=Profile%20views&color=0e75b6&style=flat" alt="blessingmwiti" /> 
@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **[MLOps]**
+- 🌱 I’m currently **[FAFO]**
 - 📫 How to reach me **[me@blessingmwiti.com]**
 - ⚡ Fun fact **[I Like to Move It Move It]**
 
