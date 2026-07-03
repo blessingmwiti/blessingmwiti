@@ -15,9 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently **[FAFO]**
-- 📫 How to reach me **[me@blessingmwiti.com]**
-- ⚡ Fun fact **[I Like to Move It Move It]**
+[![My GitFut card](https://gitfut.com/blessingmwiti.png)](https://gitfut.com/blessingmwiti)
 
 ---
 
