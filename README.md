@@ -15,7 +15,9 @@
 
 ## 🙋‍♂️ About Me
 
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/blessingmwiti)](https://ghfind.com/u/blessingmwiti?ref=badge)
+<p align="center">
+  <img src="https://ghfind.com/api/card/blessingmwiti?theme=dark" alt="blessingmwiti"/>
+</p>
 
 ---
 
