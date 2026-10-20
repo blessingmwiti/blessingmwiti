@@ -15,9 +15,11 @@
 
 ## 🙋‍♂️ About Me
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghfind.com/api/card/blessingmwiti?theme=dark" alt="blessingmwiti"/>
-</p>
+</p> -->
+
+[![GitScore](https://www.gitscore.live/api/badge/blessingmwiti)](https://www.gitscore.live/blessingmwiti)
 
 ---
 
