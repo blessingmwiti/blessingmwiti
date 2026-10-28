@@ -19,7 +19,9 @@
   <img src="https://ghfind.com/api/card/blessingmwiti?theme=dark" alt="blessingmwiti"/>
 </p> -->
 
-[![GitScore](https://www.gitscore.live/api/badge/blessingmwiti)](https://www.gitscore.live/blessingmwiti)
+<p align="center">
+  <img src="https://gitscore.live/api/badge/blessingmwiti?style=card" alt="GitScore for blessingmwiti" align="center" />
+</p>
 
 ---
 
