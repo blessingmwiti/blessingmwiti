@@ -15,29 +15,20 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- <p align="center">
-  <img src="https://ghfind.com/api/card/blessingmwiti?theme=dark" alt="blessingmwiti"/>
-</p> -->
-
 <p align="center">
-  <img src="https://gitscore.live/api/badge/blessingmwiti?style=card" alt="GitScore for blessingmwiti" align="center" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/blessingmwiti?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/blessingmwiti?style=card" alt="GitScore for blessingmwiti" />
+  </picture>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blessingmwiti&show_icons=true&theme=radical" alt="blessingmwiti" />
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blessingmwiti&theme=radical" alt="blessingmwiti" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blessingmwiti&show_icons=true&locale=en&layout=compact&theme=radical" alt="blessingmwiti" />
-</p> -->
 
 ---
 
